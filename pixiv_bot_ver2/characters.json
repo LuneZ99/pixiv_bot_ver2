@@ -1,0 +1,550 @@
+[
+    [
+        "博麗 霊夢 東方",
+        "Hakurei_Reimu"
+    ],
+    [
+        "霧雨 魔理沙 東方",
+        "Kirisame_Marisa"
+    ],
+    [
+        "ルーミア 東方",
+        "Rumia"
+    ],
+    [
+        "大妖精 東方",
+        "Daiyousei"
+    ],
+    [
+        "チルノ 東方",
+        "Cirno"
+    ],
+    [
+        "紅 美鈴 東方",
+        "Hoan_Meirin"
+    ],
+    [
+        "小悪魔 東方",
+        "Koakuma"
+    ],
+    [
+        "パチュリー ノーレッジ 東方",
+        "Patchouli_Knowledge"
+    ],
+    [
+        "十六夜 咲夜 東方",
+        "Izayoi_Sakuya"
+    ],
+    [
+        "レミリア スカーレット 東方",
+        "Remilia_Scarlet"
+    ],
+    [
+        "フランドール スカーレット 東方",
+        "Flandre_Scarlet"
+    ],
+    [
+        "冴月 麟 東方",
+        "Satsuki_Rin"
+    ],
+    [
+        "レティ ホワイトロック 東方",
+        "Letty_Whiterock"
+    ],
+    [
+        "橙 東方",
+        "Chen"
+    ],
+    [
+        "アリス マーガトロイド 東方",
+        "Alice_Margatroid"
+    ],
+    [
+        "リリーホワイト 東方",
+        "Lily_White"
+    ],
+    [
+        "ルナサ プリズムリバー 東方",
+        "Lunasa_Prismriver"
+    ],
+    [
+        "メルラン プリズムリバー 東方",
+        "Merlin_Prismriver"
+    ],
+    [
+        "リリカ プリズムリバー 東方",
+        "Lyrica_Prismriver"
+    ],
+    [
+        "魂魄 妖夢 東方",
+        "Konpaku_Youmu"
+    ],
+    [
+        "西行寺 幽々子 東方",
+        "Saigyouji_Yuyuko"
+    ],
+    [
+        "八雲 藍 東方",
+        "Yakumo_Ran"
+    ],
+    [
+        "八雲 紫 東方",
+        "Yakumo_Yukari"
+    ],
+    [
+        "伊吹 萃香 東方",
+        "Ibuki_Suika"
+    ],
+    [
+        "リグル・ナイトバグ 東方",
+        "Wriggle_Nightbug"
+    ],
+    [
+        "ミスティア ローレライ 東方",
+        "Mystia_Lorelei"
+    ],
+    [
+        "上白沢 慧音 東方",
+        "Kamishirasawa_Keine"
+    ],
+    [
+        "因幡 てゐ 東方",
+        "Inaba_Tewi"
+    ],
+    [
+        "鈴仙 優曇華院 イナバ 東方",
+        "Reisen_Udongein_Inaba"
+    ],
+    [
+        "八意 永琳 東方",
+        "Yagokoro_Eirin"
+    ],
+    [
+        "蓬莱山 輝夜 東方",
+        "Houraisan_Kaguya"
+    ],
+    [
+        "藤原 妹紅 東方",
+        "Huziwara_no_Mokou"
+    ],
+    [
+        "射命丸 文 東方",
+        "Syameimaru_Aya"
+    ],
+    [
+        "メディスン メランコリー 東方",
+        "Medicine_Melancholy"
+    ],
+    [
+        "風見 幽香 東方",
+        "Kazami_Yuka"
+    ],
+    [
+        "小野塚 小町 東方",
+        "Onozuka_Komachi"
+    ],
+    [
+        "四季映姫 東方",
+        "Shikieiki_Yamaxanadu"
+    ],
+    [
+        "秋 静葉 東方",
+        "Aki_Shizuha"
+    ],
+    [
+        "秋 穣子 東方",
+        "Aki_Minoriko"
+    ],
+    [
+        "鍵山 雛 東方",
+        "Kagiyama_Hina"
+    ],
+    [
+        "河城 にとり 東方",
+        "Kawasiro_Nitori"
+    ],
+    [
+        "犬走 椛 東方",
+        "Inubashiri_Momizi"
+    ],
+    [
+        "東風谷 早苗 東方",
+        "Kochiya_Sanae"
+    ],
+    [
+        "八坂 神奈子 東方",
+        "Yasaka_Kanako"
+    ],
+    [
+        "洩矢 諏訪子 東方",
+        "Moriya_Suwako"
+    ],
+    [
+        "永江 衣玖 東方",
+        "Nagae_Iku"
+    ],
+    [
+        "比那名居 天子 東方",
+        "Hinanawi_Tenshi"
+    ],
+    [
+        "キスメ 東方",
+        "Kisume"
+    ],
+    [
+        "黒谷 ヤマメ 東方",
+        "Kurodani_Yamame"
+    ],
+    [
+        "水橋 パルスィ 東方",
+        "Mizuhashi_Parsee"
+    ],
+    [
+        "星熊 勇儀 東方",
+        "Hoshiguma_Yugi"
+    ],
+    [
+        "古明地 さとり 東方",
+        "Komeiji_Satori"
+    ],
+    [
+        "火焔猫 燐 東方",
+        "Kaenbyou_Rin"
+    ],
+    [
+        "霊烏路 空 東方",
+        "Reiuzi_Utsuho"
+    ],
+    [
+        "古明地 こいし 東方",
+        "Komeiji_Koishi"
+    ],
+    [
+        "ナズーリン 東方",
+        "Nazrin"
+    ],
+    [
+        "多々良 小傘 東方",
+        "Tatara_Kogasa"
+    ],
+    [
+        "雲居 一輪 東方",
+        "Kumoi_Ichirin_&_Unzan"
+    ],
+    [
+        "村紗 水蜜 東方",
+        "Captain_Murasa_Minamitsu"
+    ],
+    [
+        "寅丸 星 東方",
+        "Toramaru_Syou"
+    ],
+    [
+        "聖 白蓮 東方",
+        "Hiziri_Byakuren"
+    ],
+    [
+        "封獣 ぬえ 東方",
+        "Houjuu_Nue"
+    ],
+    [
+        "幽谷 響子 東方",
+        "Kasodani_Kyouko"
+    ],
+    [
+        "宮古 芳香 東方",
+        "Miyako_Yoshika"
+    ],
+    [
+        "青娥 東方",
+        "Kaku_Seiga"
+    ],
+    [
+        "蘇我 屠自古 東方",
+        "Soga_no_Toziko"
+    ],
+    [
+        "物部 布都 東方",
+        "Mononobe_no_Futo"
+    ],
+    [
+        "豊聡耳 神子 東方",
+        "Toyosatomimi_no_Miko"
+    ],
+    [
+        "二ッ岩 マミゾウ 東方",
+        "Hutatsuiwa_Mamizou"
+    ],
+    [
+        "秦 こころ 東方",
+        "Hata_no_Kokoro"
+    ],
+    [
+        "わかさぎ姫 東方",
+        "Wakasagihime"
+    ],
+    [
+        "赤蛮奇 東方",
+        "Sekibanki"
+    ],
+    [
+        "今泉 影狼 東方",
+        "Imaizumi_Kagerou"
+    ],
+    [
+        "九十九 弁々 東方",
+        "Tsukumo_Benben"
+    ],
+    [
+        "九十九 八橋 東方",
+        "Tsukumo_Yatsuhashi"
+    ],
+    [
+        "鬼人 正邪 東方",
+        "Kijin_Seija"
+    ],
+    [
+        "少名 針妙丸 東方",
+        "Sukuna_Shinmyoumaru"
+    ],
+    [
+        "堀川 雷鼓 東方",
+        "Horikawa_Raiko"
+    ],
+    [
+        "宇佐見 菫子 東方",
+        "Usami_Sumireko"
+    ],
+    [
+        "清蘭 東方",
+        "Seiran"
+    ],
+    [
+        "鈴瑚 東方",
+        "Ringo"
+    ],
+    [
+        "ドレミー スイート 東方",
+        "Doremy_Sweet"
+    ],
+    [
+        "稀神 サグメ 東方",
+        "Kisin_Sagume"
+    ],
+    [
+        "クラウンピース 東方",
+        "Clownpiece"
+    ],
+    [
+        "純狐 東方",
+        "Junko"
+    ],
+    [
+        "ヘカーティア ラピスラズリ 東方",
+        "Hecatia_Lapislazuli"
+    ],
+    [
+        "依神 女苑 東方",
+        "Yorigami_Jyoon"
+    ],
+    [
+        "依神 紫苑 東方",
+        "Yorigami_Shion"
+    ],
+    [
+        "エタニティラルバ 東方",
+        "Eternity_Larva"
+    ],
+    [
+        "坂田 ネムノ 東方",
+        "Sakata_Nemuno"
+    ],
+    [
+        "高麗野 あうん 東方",
+        "Komano_Aunn"
+    ],
+    [
+        "矢田寺 成美 東方",
+        "Yatadera_Narumi"
+    ],
+    [
+        "爾子田 里乃 東方",
+        "Nishida_Satono"
+    ],
+    [
+        "丁礼田 舞 東方",
+        "Teireida_Mai"
+    ],
+    [
+        "摩多羅 隠岐奈 東方",
+        "Matara_Okina"
+    ],
+    [
+        "森近 霖之助 東方",
+        "Morichika_Rinnosuke"
+    ],
+    [
+        "朱鷺子 東方",
+        "Tokiko"
+    ],
+    [
+        "サニーミルク 東方",
+        "Sunny_Milk"
+    ],
+    [
+        "ルナチャイルド 東方",
+        "Lunar_Child"
+    ],
+    [
+        "スターサファイア 東方",
+        "Star_Sapphire"
+    ],
+    [
+        "綿月 豊姫 東方",
+        "Watatsuki_no_Toyohime"
+    ],
+    [
+        "綿月 依姫 東方",
+        "Watatsuki_no_Yorihime"
+    ],
+    [
+        "稗田 阿求 東方",
+        "Hieda_no_Akyuu"
+    ],
+    [
+        "茨木華扇 東方",
+        "Ibaraki_Kasen"
+    ],
+    [
+        "本居 小鈴 東方",
+        "Motoori_Kosuzu"
+    ],
+    [
+        "易者 東方",
+        "The_Fortune-teller"
+    ],
+    [
+        "宇佐見 蓮子 東方",
+        "Usami_Renko"
+    ],
+    [
+        "マエリベリー ハーン 東方",
+        "Maribel_Hearn"
+    ],
+    [
+        "神玉 東方",
+        "SinGyoku"
+    ],
+    [
+        "魅魔 東方",
+        "Mima"
+    ],
+    [
+        "きくり 東方",
+        "Kikuri"
+    ],
+    [
+        "矜羯羅 東方",
+        "Konngara"
+    ],
+    [
+        "幽幻魔眼 東方",
+        "YuugenMagan"
+    ],
+    [
+        "エリス 東方",
+        "Elis"
+    ],
+    [
+        "サリエル 東方",
+        "Sariel"
+    ],
+    [
+        "玄爺 東方",
+        "Genjii"
+    ],
+    [
+        "里香 東方",
+        "Rika"
+    ],
+    [
+        "明羅 東方",
+        "Meira"
+    ],
+    [
+        "エレン 東方",
+        "Ellen"
+    ],
+    [
+        "小兎姫 東方",
+        "Kotohime"
+    ],
+    [
+        "カナ アナベラル 東方",
+        "Kana_Anaberal"
+    ],
+    [
+        "朝倉 理香子 東方",
+        "Asakura_Rikako"
+    ],
+    [
+        "北白河 ちゆり 東方",
+        "Kitashirakawa_Chiyuri"
+    ],
+    [
+        "岡崎 夢美 東方",
+        "Okazaki_Yumemi"
+    ],
+    [
+        "オレンジ 東方",
+        "Orange"
+    ],
+    [
+        "くるみ 東方",
+        "Kurumi"
+    ],
+    [
+        "エリー 東方",
+        "Elliy"
+    ],
+    [
+        "幽香 東方",
+        "Yuka"
+    ],
+    [
+        "夢月 東方",
+        "Mugetu"
+    ],
+    [
+        "幻月 東方",
+        "Gengetu"
+    ],
+    [
+        "サラ 東方",
+        "Sara"
+    ],
+    [
+        "ルイズ 東方",
+        "Luize"
+    ],
+    [
+        "アリス 東方",
+        "Alice"
+    ],
+    [
+        "ユキ 東方",
+        "Yuki"
+    ],
+    [
+        "マイ 東方",
+        "Mai"
+    ],
+    [
+        "夢子 東方",
+        "Yumeko"
+    ],
+    [
+        "神綺 東方",
+        "Shinki"
+    ]
+]
