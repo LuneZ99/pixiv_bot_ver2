@@ -187,18 +187,24 @@ class PixivAPI():
         rt = self.search_illust(word, mode, order, period, page, per_page)
         rj = json.loads(rt)
         
+        print(len(rj['response']))
+
         for l in range(0, len(rj['response'])):
-            try:
-                illust = rj['response'][l]
-                print('{:0>4}'.format(str(i)), illust['tags'])
-                tag_json.append(illust['tags'])
-                url = illust['image_urls']['px_480mw']
-                self.download(url=url, path='I:/pixiv/'+name+'/', name=name+'_'+'{:0>4}'.format(str(i))+'.jpg')
-                i += 1
-            except PixivError:
-                print('访问被拒绝')
-                time.sleep(10)
-                continue
+            while True:
+                t = 1
+                try:
+                    illust = rj['response'][l]
+                    print('{:0>4}'.format(str(i)), illust['tags'])
+                    
+                    url = illust['image_urls']['px_480mw']
+                    self.download(url=url, path='I:/pixiv/'+name+'/', name=name+'_'+'{:0>4}'.format(str(i))+'.jpg')
+                    tag_json.append(illust['tags'])
+                    i += 1
+                    break
+                except PixivError:
+                    print('访问被拒绝，第', '{:0>4}'.format(str(t)), '次重试')
+                    time.sleep(10)
+                    continue
             
         return tag_json
     
